@@ -1,0 +1,11 @@
+{
+	"nick":"",
+	"server":"irc.chat.twitch.tv",
+	"pass":"",
+	"mysqlUser":"root",
+	"mysqlPass":"",
+	"mysqlIP":"127.0.0.1",
+	"mysqlDatabase":"coebot",
+	"twitchClientID":"",
+	"twitchKrakenOauth":""
+}

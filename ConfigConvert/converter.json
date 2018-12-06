@@ -1,0 +1,7 @@
+{
+   "channelList":"#channel1,#channel2,#channeln",
+   "databaseName": "coebot",
+   "host":"localhost:3306",
+   "user":"root",
+   "password":""
+}
